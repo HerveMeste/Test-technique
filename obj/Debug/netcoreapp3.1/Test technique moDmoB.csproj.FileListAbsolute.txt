@@ -1,0 +1,13 @@
+C:\Users\Hervé\source\repos\Test technique moDmoB\bin\Debug\netcoreapp3.1\Test technique moDmoB.exe
+C:\Users\Hervé\source\repos\Test technique moDmoB\bin\Debug\netcoreapp3.1\Test technique moDmoB.deps.json
+C:\Users\Hervé\source\repos\Test technique moDmoB\bin\Debug\netcoreapp3.1\Test technique moDmoB.runtimeconfig.json
+C:\Users\Hervé\source\repos\Test technique moDmoB\bin\Debug\netcoreapp3.1\Test technique moDmoB.runtimeconfig.dev.json
+C:\Users\Hervé\source\repos\Test technique moDmoB\bin\Debug\netcoreapp3.1\Test technique moDmoB.dll
+C:\Users\Hervé\source\repos\Test technique moDmoB\bin\Debug\netcoreapp3.1\Test technique moDmoB.pdb
+C:\Users\Hervé\source\repos\Test technique moDmoB\obj\Debug\netcoreapp3.1\Test technique moDmoB.csprojAssemblyReference.cache
+C:\Users\Hervé\source\repos\Test technique moDmoB\obj\Debug\netcoreapp3.1\Test technique moDmoB.AssemblyInfoInputs.cache
+C:\Users\Hervé\source\repos\Test technique moDmoB\obj\Debug\netcoreapp3.1\Test technique moDmoB.AssemblyInfo.cs
+C:\Users\Hervé\source\repos\Test technique moDmoB\obj\Debug\netcoreapp3.1\Test technique moDmoB.csproj.CoreCompileInputs.cache
+C:\Users\Hervé\source\repos\Test technique moDmoB\obj\Debug\netcoreapp3.1\Test technique moDmoB.dll
+C:\Users\Hervé\source\repos\Test technique moDmoB\obj\Debug\netcoreapp3.1\Test technique moDmoB.pdb
+C:\Users\Hervé\source\repos\Test technique moDmoB\obj\Debug\netcoreapp3.1\Test technique moDmoB.genruntimeconfig.cache
